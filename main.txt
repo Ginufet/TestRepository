@@ -1,2 +1,2 @@
 new content
-another line of new content
+old content is deleted by zhizhi
